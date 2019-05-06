@@ -1,0 +1,1 @@
+# ansible-role-best-practice-common
